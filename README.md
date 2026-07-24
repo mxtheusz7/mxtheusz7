@@ -15,7 +15,7 @@ Estudante de Ciência da Computação e estagiário na Desenvolve SP, atuando na
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Cloud & Segurança
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-00599C?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
 
