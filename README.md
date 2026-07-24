@@ -1,8 +1,8 @@
 # Matheus Teixeira de Oliveira
 
-Estudante de Ciência da Computação e estagiário na Desenvolve SP, atuando na área de Operações de Crédito com análise e conferência de documentação, organização e validação de dados, controle de informações e suporte operacional às áreas internas. Atualmente, estou me preparando para ingressar em Suporte Técnico / Service Desk, com foco em infraestrutura, redes e resolução de problemas corporativos, construindo uma base para minha futura evolução em Segurança da Informação.**.
+Estudante de Ciência da Computação e estagiário na Desenvolve SP, atuando na área de Operações de Crédito com análise e conferência de documentação, organização e validação de dados, controle de informações e suporte operacional às áreas internas. Atualmente, estou me preparando para ingressar em Suporte Técnico / Service Desk, com foco em infraestrutura, redes e resolução de problemas corporativos, construindo uma base para minha futura evolução em Segurança da Informação.
 
-📍 São Paulo, SP  |  📧 matheusteixeira70928@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/oliveira-matheus-t/)
+📍 São Paulo, SP | 📧 matheusteixeira70928@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/oliveira-matheus-t/)
 
 ---
 
@@ -15,7 +15,7 @@ Estudante de Ciência da Computação e estagiário na Desenvolve SP, atuando na
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Cloud & Segurança
-![AWS Cloud Fundamentals](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Blue Team](https://img.shields.io/badge/Blue%20Team-00599C?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
 
@@ -33,33 +33,38 @@ Estudante de Ciência da Computação e estagiário na Desenvolve SP, atuando na
 
 ## 📚 Formação Complementar & Certificados
 
-* **Hackers do Bem — Especialização Blue Team** *(80h)*[cite: 1]
-  * Arquitetura e design de redes seguras, segurança em sistemas operacionais e ativos, monitoramento e resposta a incidentes[cite: 1].
-* **Hackers do Bem — Curso Fundamental** *(96h)*[cite: 2]
-  * Princípios de segurança, ameaças/malwares, gestão de identidades, criptografia, infraestrutura PKI e segurança de hosts[cite: 2].
-* **AWS Cloud Fundamentals** *(Amazon Web Services / TIDWIT)*
+* **Hackers do Bem — Especialização Blue Team (80h)**
+  * Formação em cibersegurança com conteúdos relacionados a redes seguras, segurança em sistemas operacionais e ativos de rede, monitoramento e segurança de tecnologias e estudos de caso.
+* **Hackers do Bem — Curso Fundamental (96h)**
+  * Fundamentos de segurança da informação, engenharia social, ameaças e malwares, controle de acesso, gerenciamento de identidades, criptografia, infraestrutura de chaves públicas, segurança de hosts e resposta a incidentes.
+* **AWS Cloud Fundamentals**
+  * Fundamentos de computação em nuvem.
 
 ---
 
 ## 🚀 Projeto em Destaque
 
-### 🖥️ Análise de Dados & Práticas em SQL
-> *Projeto focado na prática de queries SQL, manipulação de bases relacionais e extração de insights.*
+### Mental Health Survey — Análise de Dados com SQL
+> *Projeto desenvolvido para praticar consultas SQL e análise de dados a partir de uma base sobre saúde mental no ambiente de trabalho.*
 
-* Modelagem e criação de tabelas para análise de dados
-* Consultas avançadas (JOINs, Agrupamentos, Filtros e Views)
-* Documentação e versionamento no GitHub
-* **Stack:** SQL · MySQL · Git · GitHub
+* Exploração e análise de dados utilizando SQL
+* Consultas com agrupamentos e filtros
+* Análise de informações por diferentes categorias
+* Organização e documentação do projeto no GitHub
+
+**Stack:** SQL · MySQL · Git · GitHub
 
 ---
 
 ## 📖 Estudando Atualmente
-* **Suporte Técnico Corporativo & Troubleshooting**
-* **Active Directory & Infraestrutura Windows**
-* **Redes de Computadores (TCP/IP, DNS, DHCP)**
-* **Práticas em Blue Team & SOC**
+* Suporte Técnico Corporativo e Troubleshooting
+* Active Directory e Infraestrutura Windows
+* Redes de Computadores
+* Virtualização com VirtualBox
+* Python aplicado à automação
+* Fundamentos de Segurança da Informação e Blue Team
 
 ---
 
-## 🌐 Idiomas
-🇧🇷 Português — Nativo
+## 🎯 Objetivo Profissional
+Ingressar na área de Tecnologia da Informação por meio do Suporte Técnico, evoluindo gradualmente para funções relacionadas a infraestrutura, redes e, futuramente, Segurança da Informação.
