@@ -1,6 +1,6 @@
 # Matheus Teixeira de Oliveira
 
-Estudante de Ciência da Computação (7º semestre) e estagiário na **Desenvolve SP**, atuando com análise/validação de documentação e suporte operacional. Atualmente me preparando para ingressar em **Suporte Técnico / Service Desk**, focado em infraestrutura, redes e resolução de problemas corporativos, construindo base para transição futura em **Segurança da Informação (SOC / Blue Team)**.
+Estudante de Ciência da Computação e estagiário na Desenvolve SP, atuando na área de Operações de Crédito com análise e conferência de documentação, organização e validação de dados, controle de informações e suporte operacional às áreas internas. Atualmente, estou me preparando para ingressar em Suporte Técnico / Service Desk, com foco em infraestrutura, redes e resolução de problemas corporativos, construindo uma base para minha futura evolução em Segurança da Informação.**.
 
 📍 São Paulo, SP  |  📧 seuemail@gmail.com  |  💼 [LinkedIn](https://www.linkedin.com/in/oliveira-matheus-t/)
 
